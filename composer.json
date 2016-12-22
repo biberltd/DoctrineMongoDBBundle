@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/mongodb-odm-bundle",
+    "name": "biberltd/mongodb-odm-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 Doctrine MongoDB Bundle",
     "keywords": ["persistence", "mongodb", "symfony"],
